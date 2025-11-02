@@ -13,7 +13,7 @@ This Arduino UNO project detects motion using a PIR sensor and immediately trigg
 ## Components Used
 - Arduino UNO  
 - PIR Motion Sensor  
-- LEDs (e.g., Red and Green)  
+- LEDs (e.g., Red and Blue)  
 - Buzzer  
 - Breadboard  
 - Jumper Wires  
